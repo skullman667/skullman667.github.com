@@ -50,7 +50,7 @@ a:hover {
 .wrapper {
 	width: 800px;
 	height: 100%;
-	background: #ffffff url('files/_img/ricepaper2.png') repeat;
+	background: #ffffff url('files/img/ricepaper2.png') repeat;
 	margin: 0 auto;
 	padding: 25px 50px 0 50px;
 }
@@ -129,4 +129,86 @@ header {
 .website:active {
 	border: none;
 	margin: 1px 0 0 1px;
+}
+
+/* Content */
+
+.left-column,
+.right-column {
+	width: 45%;
+	float: left;
+}
+
+.left-column {
+	margin-right: 10%;
+}
+
+.experience,
+.education {
+	margin-bottom: 100px;
+}
+
+h2 {
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	border-top: 2px solid #333333;
+	border-bottom: 1px solid #333333;
+	padding: 10px 0;
+	margin-bottom: 20px;
+	letter-spacing: 1px;
+}
+
+.employer,
+.school {
+	font-size: 22px;
+	line-height: 22px;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+.city {
+	font-family: Georgia, serif;
+	font-style: italic;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+.role {
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.description p,
+.affiliations p {
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.affiliations p {
+	margin-bottom: 15px;
+}
+
+h3 {
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	margin-top: 25px;
+	margin-bottom: 5px;
+}
+
+.skillset-left,
+.skillset-right {
+	list-style-type: none;
+	padding: 0;
+	float: left;
+	width: 48%
+}
+
+.skillset-left li,
+.skillset-right li {
+	font-size: 14px;
+	line-height: 14px;
+	margin-bottom: 5px;
 }
