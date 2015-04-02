@@ -70,13 +70,14 @@ h3{
 .paragraph{
 	font-size: 14px;
 	text-align: center;
-	width: 16%;
 	margin: auto;
+	width: 600px;
 }
 
 .paragraph p{
 	padding-top: 10px;
 	padding-bottom: 50px;
+	text-align: center;
 }
 
 .images{
@@ -116,15 +117,6 @@ h3{
 	width:940px;
 }
 
-.desc ul{
-	list-style-type: none;
-	text-align: center;
-	width: 33%;
-	display: inline-block;
-	float:left;
-	margin-bottom: 25%;
-}
-
 .desc ul li:nth-child(1){
 	margin-top: 15px;
 }
@@ -147,6 +139,23 @@ h3{
 	float: left;
 }
 
-.product_1, .product_2{
+.product_1, .product_2,.product_3{
 	width:300px;
+	text-align: center;
+	float:left;
+	margin-right: 20px;
+	margin-bottom: 208px;
+}
+
+.product_3{
+	margin-right: 0;
+}
+
+h3{
+	margin-top:23px;
+	margin-bottom:21px;
+}
+
+.product_1 p, .product_2 p, .product_3 p{
+	margin-bottom: 31px; 
 }
