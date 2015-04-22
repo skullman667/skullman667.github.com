@@ -76,6 +76,7 @@ body{
 	border: 8px solid #ffffff;
 	padding: 40px;
 	margin-top: 40px;
+	position: relative;
 }
 
 .resume span{
@@ -98,6 +99,7 @@ body{
 	margin-top: 30px;
 	border: 8px solid #ffffff;
 	padding: 40px;
+	position: relative;
 }
 
 .contact span{
@@ -120,6 +122,7 @@ body{
 	margin-top: 40px;
 	border: 8px solid #ffffff;
 	padding: 40px;
+	position: relative;
 }
 
 .works span{
