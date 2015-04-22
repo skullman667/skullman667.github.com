@@ -142,6 +142,12 @@ body{
 	border: 8px solid #ffffff;
 	padding: 40px;
 	position: relative;
+	background: #000000;
+	transition: all 250ms ease-in-out;
+}
+
+.works:hover{
+	background: rgba(114,255,0,.5);
 }
 
 .works span{
