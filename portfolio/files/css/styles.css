@@ -54,6 +54,12 @@ body{
 	border: 8px solid #ffffff;
 	padding: 40px;
 	position: relative;
+	background: #000000;
+	transition: all 250ms ease-in-out;
+}
+
+.about:hover{
+	background: rgba(0,108,255,.5);	
 }
 
 .about span{
