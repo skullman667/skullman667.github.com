@@ -78,6 +78,20 @@ body{
 	margin-top: 40px;
 }
 
+.resume span{
+	color: white;
+	position: absolute;
+	text-align: center;
+	top: 100px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	font-size: 72px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
 .contact{
 	width: 48%;
 	float: left;
@@ -86,10 +100,38 @@ body{
 	padding: 40px;
 }
 
+.contact span{
+	color: white;
+	position: absolute;
+	text-align: center;
+	top: 100px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	font-size: 72px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
 .works{
 	width: 48%;
 	float: right;
 	margin-top: 40px;
 	border: 8px solid #ffffff;
 	padding: 40px;
+}
+
+.works span{
+	color: white;
+	position: absolute;
+	text-align: center;
+	top: 100px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	font-size: 72px;
+	text-transform: uppercase;
+	font-weight: 700;
 }
