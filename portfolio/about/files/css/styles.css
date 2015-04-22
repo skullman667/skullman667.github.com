@@ -13,6 +13,7 @@ body{
 .logo{
 	width: 40%;
 	float: left;
+	top: 10px;
 }
 
 .logo img{
