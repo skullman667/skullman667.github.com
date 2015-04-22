@@ -113,6 +113,12 @@ body{
 	border: 8px solid #ffffff;
 	padding: 40px;
 	position: relative;
+	background: #000000;
+	transition: all 250ms ease-in-out;
+}
+
+.contact:hover{
+	background: rgba(255,255,255,.2);
 }
 
 .contact span{
