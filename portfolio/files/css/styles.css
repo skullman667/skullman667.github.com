@@ -85,6 +85,10 @@ body{
 	position: relative;
 }
 
+.resume:hover{
+	background: rgba(255,0,0,.5);
+}
+
 .resume span{
 	color: black;
 	position: absolute;
