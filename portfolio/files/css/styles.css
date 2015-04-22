@@ -83,6 +83,9 @@ body{
 	padding: 40px;
 	margin-top: 40px;
 	position: relative;
+	background: #000000;
+	transition: all 250ms ease-in-out;
+
 }
 
 .resume:hover{
