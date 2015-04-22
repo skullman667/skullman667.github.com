@@ -9,3 +9,14 @@ body{
 	font-family: "classic-comic";
 	font-weight: 400;
 }
+
+.logo{
+	width: 40%;
+	float: left;
+}
+
+.logo img{
+	width: 70%;
+	margin: 0 auto;
+	display: block;
+}
