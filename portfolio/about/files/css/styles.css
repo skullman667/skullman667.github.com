@@ -30,5 +30,6 @@ body{
 .description{
 	color:white;
 	border: 8px solid #ffffff;
-	width: 50%;
+	width: 80%;
+	padding-top: 50px;
 }
