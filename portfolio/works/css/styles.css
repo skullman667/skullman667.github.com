@@ -31,21 +31,21 @@ body{
 }
 
 .works span{
-	color: black;
+	color: white;
 	position: absolute;
 	text-align: center;
 	top: 90px;
-	left: 0;
+	left: 330px;
 	right: 0;
 	bottom: 0;
 	margin: auto;
-	font-size: 72px;
+	font-size: 100px;
 	text-transform: uppercase;
 	font-weight: 700;
 }
 
 .works img{
-	width: 50%;
+	width: 70%;
 	float: right;
 }
 
