@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: #000000;
+	font-family: "classic-comic";
+	font-weight: 400;
+}
+
+.wrapper{
+	width: 960px;
+	margin: 40px auto;
+}
+
+.wrapper img{
+	width: 100%;
+}
+
+.logo{
+	width: 40%;
+	float: left;
+}
+
+.logo img{
+	width: 70%;
+	margin: 0 auto;
+	display: block;
+}
+
+.works span{
+	color: black;
+	position: absolute;
+	text-align: center;
+	top: 90px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	font-size: 72px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
