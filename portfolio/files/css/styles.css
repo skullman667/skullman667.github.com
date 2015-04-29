@@ -166,12 +166,20 @@ body{
 
 /* Works Section */
 
+.works-header{
+	width: 48%;
+	float: right;
+	margin-top: 40px;
+	position: relative;
+
+}
+
 .works-header span{
 	color: white;
 	position: absolute;
 	text-align: center;
 	top: 90px;
-	left: 330px;
+	left: 30px;
 	right: 0;
 	bottom: 0;
 	margin: auto;
@@ -180,10 +188,6 @@ body{
 	font-weight: 700;
 }
 
-.works-header img{
-	width: 70%;
-	float: right;
-}
 
 .name{
 	background: #fffc00;
