@@ -44,6 +44,11 @@ body{
 	font-weight: 700;
 }
 
+.works img{
+	width: 50%;
+	float: right;
+}
+
 .name{
 	background: #fffc00;
 	text-align: center;
