@@ -43,3 +43,21 @@ body{
 	text-transform: uppercase;
 	font-weight: 700;
 }
+
+.name{
+	background: #fffc00;
+	text-align: center;
+	margin: 20px auto 0;
+	width: 50%;
+	padding: 5px;
+	font-size: 14px;
+}
+
+.title{
+	background: #fffc00;
+	text-align: center;
+	margin: 20px auto 0;
+	width: 65%;
+	padding: 5px;
+	font-size: 14px;
+}
