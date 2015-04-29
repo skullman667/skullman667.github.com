@@ -163,3 +163,42 @@ body{
 	text-transform: uppercase;
 	font-weight: 700;
 }
+
+/* Works Section */
+
+.works span{
+	color: white;
+	position: absolute;
+	text-align: center;
+	top: 90px;
+	left: 330px;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	font-size: 90px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.works img{
+	width: 70%;
+	float: right;
+}
+
+.name{
+	background: #fffc00;
+	text-align: center;
+	margin: 20px auto 0;
+	width: 50%;
+	padding: 5px;
+	font-size: 14px;
+}
+
+.title{
+	background: #fffc00;
+	text-align: center;
+	margin: 20px auto 0;
+	width: 65%;
+	padding: 5px;
+	font-size: 14px;
+}
