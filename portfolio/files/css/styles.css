@@ -168,7 +168,7 @@ body{
 
 .works-header{
 	width: 48%;
-	float: right;
+	float: left;
 	margin-top: 40px;
 	position: relative;
 
@@ -183,7 +183,7 @@ body{
 	right: 0;
 	bottom: 0;
 	margin: auto;
-	font-size: 90px;
+	font-size: 80px;
 	text-transform: uppercase;
 	font-weight: 700;
 }
