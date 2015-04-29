@@ -169,7 +169,8 @@ body{
 .works-header{
 	width: 48%;
 	float: left;
-	margin-top: 40px;
+	margin-top: -10px;
+	margin-right: 20px;
 	position: relative;
 
 }
