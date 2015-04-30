@@ -10,6 +10,10 @@ body{
 	font-weight: 400;
 }
 
+a{
+	text-decoration: none;
+}
+
 .name{
 	background: #fffc00;
 	text-align: center;
@@ -17,6 +21,7 @@ body{
 	width: 50%;
 	padding: 5px;
 	font-size: 14px;
+	color: black;
 }
 
 .title{
@@ -26,6 +31,7 @@ body{
 	width: 65%;
 	padding: 5px;
 	font-size: 14px;
+	color: black;
 }
 
 .wrapper{
