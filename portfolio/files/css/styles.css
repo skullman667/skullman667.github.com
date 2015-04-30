@@ -208,7 +208,10 @@ body{
 	font-size: 14px;
 }
 
+.images{
+	margin-top: 20px;
+}
+
 .images img{
-	padding-top: 20px;
 	border: 8px solid #ffffff;
 }
