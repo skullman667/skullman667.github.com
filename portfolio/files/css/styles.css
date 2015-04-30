@@ -54,6 +54,8 @@ a{
 	display: block;
 }
 
+/* Logo Invert Link */
+
 .logo img.active{
 	display: none;
 }
@@ -65,6 +67,8 @@ a{
 .logo:hover img.active{
 	display: block;
 }
+
+/* End of Logo Invert Link*/
 
 .about{
 	width: 60%;
@@ -197,7 +201,7 @@ a{
 }
 
 .works-header span{
-	color: white;
+	color: black;
 	position: absolute;
 	text-align: center;
 	top: 90px;
