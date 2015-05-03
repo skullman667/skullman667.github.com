@@ -312,8 +312,7 @@ a{
 .description{
 	color: white;
 	font-size: 20px;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding: 10px;
 	margin-top: 400px;
 	margin-bottom: 400px;
 	text-align: center;
