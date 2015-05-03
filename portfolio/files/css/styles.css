@@ -418,7 +418,7 @@ a{
 
 /* Contact Section */
 
-.works-header{
+.contact-header{
 	width: 48%;
 	float: left;
 	margin-left: -70px;
@@ -426,7 +426,7 @@ a{
 
 }
 
-.works-header span{
+.contact-header span{
 	color: black;
 	position: absolute;
 	text-align: center;
@@ -440,7 +440,7 @@ a{
 	font-weight: 700;
 }
 
-.works-header img{
+.contact-header img{
 	width: 30%;
 	padding-right: 40px;
 }
