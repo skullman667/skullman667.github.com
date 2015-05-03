@@ -304,6 +304,11 @@ a{
 	text-decoration: none;
 }
 
+.about-header img{
+	width: 80%;
+	padding-left: 10px;
+}
+
 .about-title{
 	font-size: 14px;
 	text-decoration: none;
