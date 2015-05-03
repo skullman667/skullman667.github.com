@@ -270,11 +270,11 @@ a{
 }
 
 .about-header span{
-	color: white;
+	color: black;
 	position: absolute;
 	text-align: center;
-	top: 90px;
-	left: 30px;
+	top: 70px;
+	left: 50px;
 	right: 0;
 	bottom: 0;
 	margin: auto;
