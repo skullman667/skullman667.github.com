@@ -310,8 +310,7 @@ a{
 }
 
 .description{
-	background: #fffc00;
-	color: black;
+	color: white;
 	font-size: 20px;
 	padding-top: 450px;
 	margin-top: 400px;
@@ -319,4 +318,9 @@ a{
 	text-align: center;
 	border: 8px solid #ffffff;
 	display: block;
+}
+
+.description img{
+	width: 40%;
+	position: center;
 }
