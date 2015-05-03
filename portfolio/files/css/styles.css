@@ -298,3 +298,7 @@ a{
 a{
 	text-decoration: none;
 }
+
+.about-header p{
+	font-size: 14px;
+}
