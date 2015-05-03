@@ -299,6 +299,12 @@ a{
 	text-decoration: none;
 }
 
-.about-header p{
+.about-header{
 	font-size: 14px;
+	text-decoration: none;
+}
+
+.about-title{
+	font-size: 14px;
+	text-decoration: none;
 }
