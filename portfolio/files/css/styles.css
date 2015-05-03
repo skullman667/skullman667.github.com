@@ -270,7 +270,7 @@ a{
 }
 
 .about-header span{
-	color: black;
+	color: white;
 	position: absolute;
 	text-align: center;
 	top: 90px;
@@ -307,4 +307,9 @@ a{
 .about-title{
 	font-size: 14px;
 	text-decoration: none;
+}
+
+.description{
+	color: white;
+	font-size: 20px;
 }
