@@ -427,7 +427,7 @@ a{
 }
 
 .works-header span{
-	color: white;
+	color: black;
 	position: absolute;
 	text-align: center;
 	top: 90px;
@@ -438,4 +438,9 @@ a{
 	font-size: 80px;
 	text-transform: uppercase;
 	font-weight: 700;
+}
+
+.works-header img{
+	width: 30%;
+	padding-right: 40px;
 }
