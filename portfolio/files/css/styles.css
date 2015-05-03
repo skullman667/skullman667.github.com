@@ -339,11 +339,11 @@ a{
 }
 
 .resume-header span{
-	color: white;
+	color: black;
 	position: absolute;
 	text-align: center;
 	top: 150px;
-	left: 270px;
+	left: 220px;
 	right: 0;
 	bottom: 0;
 	margin: auto;
