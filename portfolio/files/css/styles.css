@@ -334,9 +334,10 @@ a{
 
 .resume-header img{
 	width: 50%;
-	margin-left: 10px;
+	margin-right: 20px;
 }
 
 .resume-header span{
 	color: white;
+	font-size: 55px;
 }
