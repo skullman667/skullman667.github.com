@@ -435,12 +435,13 @@ a{
 	right: 0;
 	bottom: 0;
 	margin: auto;
-	font-size: 80px;
+	font-size: 60px;
 	text-transform: uppercase;
 	font-weight: 700;
 }
 
 .contact-header img{
-	width: 30%;
-	padding-right: 40px;
+	width: 70%;
+	padding-right: 50px;
+	margin-left: 25px;
 }
