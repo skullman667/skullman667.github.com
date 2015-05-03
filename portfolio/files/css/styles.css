@@ -415,3 +415,27 @@ a{
 	padding-bottom: 10px;
 	color: white;
 }
+
+/* Contact Section */
+
+.works-header{
+	width: 48%;
+	float: left;
+	margin-left: -70px;
+	position: relative;
+
+}
+
+.works-header span{
+	color: white;
+	position: absolute;
+	text-align: center;
+	top: 90px;
+	left: 30px;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	font-size: 80px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
