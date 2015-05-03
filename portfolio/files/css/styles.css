@@ -312,6 +312,7 @@ a{
 .description{
 	color: white;
 	font-size: 20px;
-	padding: 450px;
+	padding-top: 450px;
+	text-align: center;
 	border: 8px solid #ffffff;
 }
