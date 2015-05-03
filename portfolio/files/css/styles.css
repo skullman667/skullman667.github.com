@@ -329,3 +329,9 @@ a{
 	width: 40%;
 	position: center;
 }
+
+/* Resume Section */
+
+.resume-header img{
+	width: 35%;
+}
