@@ -310,7 +310,8 @@ a{
 }
 
 .description{
-	color: white;
+	background: #fffc00;
+	color: black;
 	font-size: 20px;
 	padding-top: 450px;
 	margin-top: 400px;
