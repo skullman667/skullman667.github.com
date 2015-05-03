@@ -312,4 +312,6 @@ a{
 .description{
 	color: white;
 	font-size: 20px;
+	padding-top: 100px;
+	border: 8px solid #ffffff;
 }
