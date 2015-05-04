@@ -455,5 +455,5 @@ a{
 
 .link-images img{
 	text-align: center;
-	display: block;
+	display: inline-block;
 	margin-left: 150px;
