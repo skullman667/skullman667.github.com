@@ -430,7 +430,7 @@ a{
 	color: black;
 	position: absolute;
 	text-align: center;
-	top: 90px;
+	top: 110px;
 	left: -125px;
 	right: 0;
 	bottom: 0;
@@ -453,6 +453,6 @@ a{
 a img{
 	width: 10%;
 	margin-top: 25px;
-	text-align: center;
+	float: center;
 
 }
