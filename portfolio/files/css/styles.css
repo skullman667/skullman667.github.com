@@ -456,6 +456,8 @@ a{
 .link-images{
 	text-align: center;
 	display: block;
+}
+
+a .yt{
 	width: 20%;
-	height: 50%;
 }
