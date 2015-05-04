@@ -450,6 +450,6 @@ a{
 	border: 8px solid #ffffff;
 }
 
-.link-images img{
-	padding: 300px;
+a img{
+	width: 50%;
 }
