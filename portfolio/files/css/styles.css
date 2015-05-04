@@ -431,11 +431,11 @@ a{
 	position: absolute;
 	text-align: center;
 	top: 90px;
-	left: 30px;
+	left: -120px;
 	right: 0;
 	bottom: 0;
 	margin: auto;
-	font-size: 60px;
+	font-size: 50px;
 	text-transform: uppercase;
 	font-weight: 700;
 }
@@ -443,5 +443,5 @@ a{
 .contact-header img{
 	width: 70%;
 	padding-right: 50px;
-	margin-left: 25px;
+	margin-left: 30px;
 }
