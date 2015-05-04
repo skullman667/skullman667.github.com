@@ -456,16 +456,3 @@ a{
 .link-images{
 	text-align: center;
 	display: block;
-}
-
-a .fb img{
-	width: 70%;
-}
-
-a .da img{
-	width: 5%;
-}
-
-a .yt img{
-	width: 20%;
-}
