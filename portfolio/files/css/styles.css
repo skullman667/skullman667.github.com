@@ -455,4 +455,7 @@ a{
 
 .link-images{
 	text-align: center;
-	display: block
+	display: block;
+	width: 20%;
+	height: 50%;
+}
