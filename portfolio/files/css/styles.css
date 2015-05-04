@@ -458,6 +458,14 @@ a{
 	display: block;
 }
 
+a .fb{
+	width: 70%;
+}
+
+a .da{
+	width: 5%;
+}
+
 a .yt{
 	width: 20%;
 }
