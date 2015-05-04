@@ -453,6 +453,7 @@ a{
 	margin-right: 50px;
 }
 
-.link-images{
+.link-images img{
 	text-align: center;
 	display: block;
+	margin-left: 150px;
